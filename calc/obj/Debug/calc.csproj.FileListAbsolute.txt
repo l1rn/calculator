@@ -1,0 +1,11 @@
+D:\Student\ИП-302\Таксатов\С#\calc\bin\Debug\calc.exe.config
+D:\Student\ИП-302\Таксатов\С#\calc\bin\Debug\calc.exe
+D:\Student\ИП-302\Таксатов\С#\calc\bin\Debug\calc.pdb
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.Form1.resources
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.Properties.Resources.resources
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.exe
+D:\Student\ИП-302\Таксатов\С#\calc\obj\Debug\calc.pdb
